@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\LR3\LR3\bin\Debug\LR3.exe.config
+C:\Users\user\Source\Repos\LR3\LR3\bin\Debug\LR3.exe
+C:\Users\user\Source\Repos\LR3\LR3\bin\Debug\LR3.pdb
+C:\Users\user\Source\Repos\LR3\LR3\obj\Debug\LR4.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\LR3\LR3\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\LR3\LR3\obj\Debug\LR3.exe
+C:\Users\user\Source\Repos\LR3\LR3\obj\Debug\LR3.pdb
